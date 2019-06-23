@@ -1,0 +1,25 @@
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    position: relative;
+    font-family: 'Aldrich', sans-serif;
+
+}
+p {
+    /* text-align: center; */
+    padding: 10px;
+    font-size: 30px
+}
+.jumbotron {
+    margin: 0 450px 0 450px;    
+    text-align: center;
+    padding: 50px 0 50px 0;
+}
+#thing { 
+    background-color: rgba(255, 255, 255, 0.24);
+}
+img {
+    width: 200px;
+    height: auto;
+    z-index: 1;
+}
