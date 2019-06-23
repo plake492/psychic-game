@@ -65,5 +65,5 @@ winsText.textContent = "wins: " + wins;
 lossesText.textContent = "losses: " + losses;
 guessesLeftText.textContent = "guesses left: " + guessesLeft;
 userGuessText.textContent = "Your guesses so far: " + letterGuess.join(', ');
-    }
+}
 
